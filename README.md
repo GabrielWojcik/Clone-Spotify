@@ -1,2 +1,2 @@
 # Clone-Spotify
-Criando a interface do Spotify com JavaScript,HTML e CSS.
+:spotify: Creating a Spotify interface with JavaScript,HTML and CSS.
